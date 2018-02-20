@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <string-array name="friends">
+        <item>Surbhi</item>
+        <item>Bishweashwar</item>
+        <item>Devesh</item>
+        <item>Nimisha</item>
+        <item>Abhay</item>
+        <item>Mahima</item>
+        <item>Aayush</item>
+        <item>Lohit</item>
+        <item>Preet</item>
+        <item>Swati</item>
+        <item>Himanshu</item>
+    </string-array>
+</resources>
